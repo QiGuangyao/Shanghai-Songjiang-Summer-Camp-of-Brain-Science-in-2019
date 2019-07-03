@@ -5,9 +5,9 @@ https://www.git-scm.com/download/
 Windows下配置Git （https://blog.csdn.net/EXLsunshine/article/details/18939329)
 1 首次下载文件
 在Git CMD (Deprecated)命令行输入(可更改当前目录)：
-git clone https://github.com/QiGuangyao/studentPresentation.git
+git clone https://github.com/QiGuangyao/Shanghai-Songjiang-Summer-Camp-of-Brain-Science-in-2019.git
 2 更新文件夹
-1）在Git CMD (Deprecated)命令行更改当前目录到 /studentPresentation
+1）在Git CMD (Deprecated)命令行更改当前目录到 /Shanghai-Songjiang-Summer-Camp-of-Brain-Science-in-2019
 2）在Git CMD (Deprecated)命令行输入：
 git pull
 
